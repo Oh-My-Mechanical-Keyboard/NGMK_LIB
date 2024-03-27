@@ -1,0 +1,9 @@
+[submodule "libs/tinyusb"]
+	path = libs/tinyusb
+	url = https://github.com/hathach/tinyusb.git
+[submodule "libs/CherryUSB"]
+	path = libs/CherryUSB
+	url = https://github.com/cherry-embedded/CherryUSB.git
+[submodule "libs/qmk_firmware"]
+	path = libs/qmk_firmware
+	url = https://github.com/qmk/qmk_firmware.git
